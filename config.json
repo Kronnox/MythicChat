@@ -1,0 +1,9 @@
+{
+  "configValues": {
+    "localchat-radius": 100.0,
+    "localchat-mask": "<color=yellow>[L]</color> <color=white>{0}: {1}</color>",
+    "staffchat-mask": "<color=red>[Staff]</color> <color=white>{0}: {1}</color>",
+    "msg-to-mask": "<color=#FF1493>To {0}: {1}</color>",
+    "msg-from-mask": "<color=#FF1493>From {0}: {1}</color>"
+  }
+}
